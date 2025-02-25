@@ -1,9 +1,6 @@
 backend:
-  name: github
-  repo: tlskillman/michaelspencepoet-site
+  name: git-gateway
   branch: main
-
-publish_mode: editorial_workflow
 
 media_folder: "uploads"
 public_folder: "/uploads"
@@ -16,14 +13,14 @@ collections:
         name: "bio"
         file: "index.html"
         fields:
-          - {label: "Biography Text", name: "body", widget: "markdown"}
+          - { label: "Biography Text", name: "body", widget: "markdown" }
       - label: "Published Works"
         name: "works"
         file: "index.html"
         fields:
-          - {label: "Works Section", name: "body", widget: "markdown"}
+          - { label: "Works Section", name: "body", widget: "markdown" }
       - label: "Poetic Themes"
         name: "themes"
         file: "index.html"
         fields:
-          - {label: "Themes", name: "body", widget: "markdown"}
+          - { label: "Themes", name: "body", widget: "markdown" }
