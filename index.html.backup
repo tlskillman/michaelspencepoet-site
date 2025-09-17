@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Michael Spence - Poet</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f1e3;
+            color: #2c3e50;
+            line-height: 1.6;
+        }
+        header {
+            background: url('https://source.unsplash.com/1600x900/?road,poetry') no-repeat center center/cover;
+            color: #2c3e50;
+            text-align: center;
+            padding: 80px 20px;
+            text-shadow: 2px 2px 4px rgba(255,255,255,0.7);
+        }
+        nav {
+            background-color: #2c3e50;
+            padding: 10px;
+            text-align: center;
+        }
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin: 0 15px;
+        }
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            font-size: 18px;
+        }
+        section {
+            padding: 20px;
+            max-width: 900px;
+            margin: auto;
+            background: white;
+            margin-top: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        blockquote {
+            font-style: italic;
+            border-left: 4px solid #2c3e50;
+            padding-left: 10px;
+            margin-left: 20px;
+            color: #7f8c8d;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #2c3e50;
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Michael Spence</h1>
+        <p>Poet of Journeys, Time, and Transit</p>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#bio">Biography</a></li>
+            <li><a href="#works">Published Works</a></li>
+            <li><a href="#themes">Poetic Themes</a></li>
+            <li><a href="#reception">Critical Acclaim</a></li>
+            <li><a href="#contact">Contact</a></li>
+            <li><a href="#poems">Poems</a></li>
+        </ul>
+    </nav>
+    
+    <section id="bio">
+        <h2>Biography</h2>
+        <p>Michael Spence is an American poet who drove public-transit buses in the Seattle area for <strong>thirty years</strong>, retiring on <strong>February 14, 2014</strong>. His city-level vantage—engines humming, neon on rain—shapes much of his work. Before his transit career, Spence earned a B.A. in English from the University of Washington and served as a junior officer aboard the USS <em>John F. Kennedy</em> (CV-67).</p>
+        <!-- Removed unverifiable poem excerpt -->
+    </section>
+    
+    <section id="works">
+        <h2>Published Works</h2>
+        <ul>
+            <li><strong>The Spine</strong> (1987) — recognized in the Walt Whitman Award competition</li>
+            <li><strong>Adam Chooses</strong> (1998) — a collection exploring moral choices and life decisions</li>
+            <li><strong>Crush Depth</strong> (2009) — a poetic reflection on naval experiences and family legacy</li>
+            <li><strong>The Bus Driver’s Threnody</strong> (2014) — finalist, The New Criterion Poetry Prize</li>
+            <li><strong>Umbilical</strong> (2016) — winner, The New Criterion Poetry Prize</li>
+        </ul>
+    </section>
+    
+    <section id="themes">
+        <h2>Poetic Themes</h2>
+        <p>Spence’s poetry captures the transient beauty of daily encounters—passengers boarding a late-night bus, the hum of the engine beneath quiet contemplation, and echoes of history intertwined with the present.</p>
+        <!-- Removed unverifiable poem excerpt -->
+    </section>
+    
+    <section id="reception">
+        <h2>Critical Acclaim</h2>
+        <p>Michael Spence received a Creative Writing Fellowship from the National Endowment for the Arts in 1990. His work has appeared in journals including <em>The Hudson Review</em>, <em>North American Review</em>, <em>Poetry</em>, <em>The Yale Review</em>, and <em>The New Criterion</em>. His collection <em>Umbilical</em> won The New Criterion Poetry Prize.</p>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>For inquiries, interviews, or literary events, please reach out via <a href="mailto:linebreaks@msn.com"><strong>linebreaks@msn.com</strong></a>.</p>
+    </section>
+
+    <section id="poems">
+        <h2>A Sampling of Published Poems</h2>
+        <p>THE HOLLOW BARGAIN<br>
+<br>
+I am the bargain struck<br>
+By the four gods—water,<br>
+Earth, wind, and fire;<br>
+The result of their ache<br>
+To walk this world alive.<br>
+Joining, we make five.<br>
+Knives for fingers, the gods<br>
+Open with space every part<br>
+Of my body. My heart<br>
+Is hollow for blood,<br>
+My sculpted throat turns air<br>
+To voice, and dreams flare<br>
+In the cave of my skull.<br>
+I stand where elements cross,<br>
+Shaped by the emptiness<br>
+Forming the bones of a gull<br>
+For flight; holding—like a shell<br>
+Its pearl—the ring of the bell.<br>
+<br>
+(first published in Poetry and The Spine)<br>
+<br></p>
+
+        <p>FIRST LOVE IN TWO DIMENSIONS<br>
+<br>
+
+Wandering through palmettos and scrub pine<br>
+In Sarasota, I find the magazine<br>
+Buried in the sand of the lot next door.
+I exhume it. Careful not to tear
+The pages stiff and crackling as dead leaves, I drink
+In every picture, reverent as a monk
+Poring over his parchment. It’s Christmas
+In July, and there at the center—unwrapped as
+A present from a gift box—lies the woman.
+The breath of a boy is small; since she has none,
+She takes all of mine. A triptych of desire
+Held by two staples where her underwear
+Isn’t, she dries out my mouth. At Holy Cross
+Junior High, the priest warned my all-male class:
+The fires of hell rise to consume forever
+Any who think impure thoughts. I grow hotter
+The more I stare, seeing her lips smile
+Yes to things I don’t know how to ask. I feel
+My heart thudding so loud I’m sure that soon
+I’ll burst into flame. Burying her again,
+I’m as cautious as a pirate—
+Ten paces west of a Spanish bayonet.
+Through summer, between swimming and fireworks,
+I come back to let her strike the sparks
+That will burn away my childhood. Though ash
+May be all I’m left with from the rush
+Of those days, beneath its layers the embers
+Lie with her. I still feel them smolder.
+
+(first published in Poetry and The Spine)
+
+DARKEN SHIP
+
+At night, to keep the enemy
+From spotting us, our lights dimmed red:
+An ember&#39;s color which at sea
+Won&#39;t travel far. My recruiter had said
+The camaraderie of the sailors
+And sights I&#39;d see would give me tales
+For home. But on my carrier—
+A ship huge as a glacier of steel--
+Who could even meet the whole crew?
+To watch the stars, I&#39;d step out
+On the port quarter: the place we threw
+Our garbage overboard. That night,
+As I lounged in a far corner,
+Someone backed onto the ledge.
+I need more time! he cried. Two other
+Shadows pushed him to the edge.
+I yelled--two shapes stiffened to ice,
+The third halfway over the rail.
+The red lights, smudging each face,
+Made comrades of us all.
+
+(first published in The American Scholar and Crush Depth)
+
+UNDERTOW
+
+I’m running down the corridors,
+Late for my watch on the bridge,
+For captain’s mast, for General Quarters.
+It’s winter, my face frigid:
+Why is my uniform tropical white?
+Down the passageways
+Of shadowless fluorescent light
+I gasp, but the view stays
+Unchanged—a tunnel of painted steel.
+I’m yelling: I did my time—
+And I resigned! This can’t be real!
+But all the ladders I climb
+Now lead to where the lifeboat is stored.
+The PA speakers blast:
+Man overboard! Man overboard!
+The boat’s being lowered. I’m last
+To grab a ratline and clamber in.
+My grip slips on the line—
+I hit the water. And wake: my skin
+Slick with the old brine.
+
+(first published in The New Criterion)
+
+EMISSARIES OF THE SUNLESS HOURS
+
+They board his bus near midnight. He knows
+These three are trouble: leather jackets black
+With rain and woven from the dark, the studs
+Of metal glinting randomly as stars.
+The one who comes on first is thin but tall,
+Hair blue as lapis, face pale as the fangs
+The driver’s pretty sure are porcelain.
+As sure as he is this trio will stiff him. Coins
+Sliding like liquid from his fingers, the Goth
+Looks at him: May I please have a transfer, sir?
+The driver waits for something more smart-ass
+As he hands him one. Bluehair nods: Thank you.
+Polite as well, the other two follow him
+To the bench seat in the back. I won’t go near
+That seat, an older woman told the driver
+This evening—that’s where all the assholes sit.
+In the rearview he sees a guy in a ball cap
+And Husky sweatshirt (the driver’s alma mater)
+Grin and shake his head as the three pass,
+Saying something to a girl across the aisle.
+She ignores him, the wire to her earbuds
+Trembling like a birfurcating vine
+In a breeze as her head shakes to a private tune.
+The bus goes by another dozen stops
+Before the bell rings. Ball Cap gets up,
+Leaning down as if to talk to her again,
+Then snatches at her iPod. She yelps, clinging
+To the thing while he growls: Gimme that, bitch!
+The driver’s calling the cops when he hears and feels
+A thud through his boot soles. The tall Goth
+Has tackled Ball Cap in the aisle, his friends
+Piling on, pinning him down. Give it back!
+The thin one says as the other two twist
+Ball Cap’s arms behind him till he squeals.
+Bluehair hands the device to the girl; her hand
+Shakes as she takes it. Now lemme up! yells
+The thief. Soon as the cops arrive, says the Goth,
+Looking up at the driver. Right, sir?
+The driver nods, grinning: From now on, any time
+You take my bus, you guys ride for free.
+
+(first published in The Hudson Review and The Bus Driver’s Threnody)
+
+GLAD
+
+I’m glad that there’s this bus: my DUIs
+Mean someone else has gotta drive, surprise.
+To get to work by taxi’d cost a ton.
+A bike? You seen how many bikes get run
+Down on these roads? And I’d need to pedal an hour
+Each way, most likely during a downpour
+In the freezing dark. I used to think that losers
+Were the only ones who caught the bus. Like boozers
+Way worse than me—the kind who can never find
+Their fare. The driver oughta leave the bastards behind.
+Some people tell me they ride to save on gas
+And parking fees. Others are tired of the ass-
+Hole NASCAR wannabes on the freeway.
+I guess I’d say most of us here are okay.
+One day I sat behind these two old guys—
+So white, I swear, like a vampire’d sucked `em dry.
+One said all gloomy-sounding: A former duchess
+Of Westminster said anyone seen in a bus
+Over the age of thirty has been a failure.
+The other shrugged: Let’s give it one more year.
+Then they laughed like my buddies at a kegger.
+The redhead came on that day—I wanted to beg her
+To go out with me, the way I used to
+When I got wasted. But I held off. I knew
+Slow was how to take it: my last girlfriend
+Dumped me because I was a weird blend
+Of pushy/needy. Late that night the cop
+Who stopped and breathalyzed me said: You top
+My record for drunkest pull-over. Bye-bye,
+License. This morning I caught the redhead’s eye—
+She smiled, though she was talking on her cell,
+So I can’t really be sure. What if I tell
+Those old guys’ story to her? Would she laugh?
+But not today: yeah, don’t give her even half
+A reason to bolt. Might have a chance, you know?
+Maybe she’ll get on my bus tomorrow.
+
+(first published in Rattle)
+    </section>
+        
+    
+    <footer>
+        <p>&copy; 2025 Michael Spence | Website maintained by Thomas Skillman</p>
+    </footer>
+</body>
+</html>
